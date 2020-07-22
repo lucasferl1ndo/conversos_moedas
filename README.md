@@ -6,6 +6,14 @@
 
 <img src="https://user-images.githubusercontent.com/43822467/88120897-6e0d7800-cb9a-11ea-979c-062122d32bec.png" style="max-width:100%;">
 
+## Design Atual
+
+<h1 align="center"> 
+<img src="https://user-images.githubusercontent.com/43822467/88205953-e66c4b80-cc23-11ea-9879-69b3d157d122.png" float="center" width="300";>
+</h1>
+
+
+
 
 <h2>:floppy_disk:
  Technologies </h2>
