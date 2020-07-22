@@ -81,7 +81,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       backgroundColor: Colors.black45,
       appBar: AppBar(
-        title: Text("\$ Conversor  \$"),
+        title: Text("Conversor de Moedas"),
         backgroundColor: Colors.greenAccent,
         centerTitle: true,
       ),
@@ -114,10 +114,12 @@ class _HomeState extends State<Home> {
                     crossAxisAlignment: CrossAxisAlignment.stretch,
                     children: <Widget>[
                       Icon(
-                        Icons.monetization_on,
-                        size: 72.0,
+                        Icons.attach_money,
+                        size: 64.0,
                         color: Colors.greenAccent,
+
                       ),
+                      Divider(),
                       buildTextField(
                           "Reais", "R\$ ", realController, _realChanged),
                       Divider(),
